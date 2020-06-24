@@ -1,0 +1,4 @@
+# Created at 2020-06-24T08:54:48.771
+Boot Manifest-JAR contains absolute paths in classpath 'E:\Mehul\Workspace\BoardGameGeek\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
