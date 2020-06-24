@@ -6,7 +6,7 @@
       <class name="testCases.TestCase_001">
         <methods>
           <include name="closeBrowser"/>
-          <include name="getGameCollection"/>
+          <include name="getGameCollection" invocation-numbers="1"/>
           <include name="launchBrowser"/>
         </methods>
       </class> <!-- testCases.TestCase_001 -->
